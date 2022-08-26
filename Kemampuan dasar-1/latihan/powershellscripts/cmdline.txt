@@ -1,0 +1,20 @@
+1.Get-Help Format-Table
+2.Get-Command
+3.Get-Service "vm*"
+4.Get-Service "vm*" | Get-Member
+5.New-Item -Path
+6.Get-ExecutionPolicy
+7.Set-executionpolicy unrestricted
+8.Get-ExecutionPolicy
+9."D:\FirstScript.ps1"
+10.Get-WmiObject
+11.Select-Object
+12.Get-Content
+13.Get-Date
+14.Test-Connection 
+15.Get_credential 
+16.Get-HotFix
+17.Get-Member
+18.Start-Sleep
+19.Add-Computer
+20.Set-Location
